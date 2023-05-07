@@ -1,4 +1,4 @@
-# Discussion Questions: Props and Component Reusability
+# Discussion Questions: Props and Component Reusability c
 
 **Welcome to _Ye Olde Apothecary_!**
 
